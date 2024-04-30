@@ -20,6 +20,6 @@
   * 비대면 스터디(이틀에 한 번)를 통해 각자 이틀 간 풀은 문제들(2문제)을 해결한 코드를 설명해주고 서로의 의견을 나눕니다 !
 
 ### 
-| [<img src="https://github.com/UykM.png">](https://github.com/UykM) | [<img src="https://github.com/Hyerim20.png">](https://github.com/Hyerim20) | [<img src="https://github.com/woogie01.png">](https://github.com/woogie01) | [<img src="https://github.com/daniel4510.png">](https://github.com/daniel4510) |
-|:---:|:---:|:---:|:---:
-신민규(멘토)|강혜림|권현욱|최명후|
+| [<img src="https://github.com/UykM.png">](https://github.com/UykM) | [<img src="https://github.com/woogie01.png">](https://github.com/woogie01) | [<img src="https://github.com/daniel4510.png">](https://github.com/daniel4510) |
+|:---:|:---:|:---:
+신민규(멘토)|권현욱|최명후|
