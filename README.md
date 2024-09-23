@@ -19,18 +19,18 @@
 
 <br>
 
-  📣 벌칙! 누적 3회당 벌금 5000원씩 ❗ <br>
-  알고리즘을 꾸준히 매일매일 습관처럼 푸는 것이 중요해요 ! <br>
-  그런데, 1~2번 빠지는 것을 대수롭지 않게 여기다가, <br>
-  스터디에도 악영향을 미치고 알고리즘 실력도 잘 안늘게 되더라구요 ... <br>
-  👉 스터디 회식때 사용할 예정 ! <br>
+    📣 벌칙! 누적 3회당 벌금 5000원씩 ❗ <br>
+    알고리즘을 꾸준히 매일매일 습관처럼 푸는 것이 중요해요 ! <br>
+    그런데, 1~2번 빠지는 것을 대수롭지 않게 여기다가, <br>
+    스터디에도 악영향을 미치고 알고리즘 실력도 잘 안늘게 되더라구요 ... <br>
+    👉 스터디 회식때 사용할 예정 ! <br>
+      
     
-  
-  ✅ 나중에 어느정도 실력을 쌓은 이후엔, 유형을 모르는 상태로 풀어보는 연습을 하기 위해,
-    매일 한 명씩 다른 부원들에게 새로운 알고리즘 문제를 제시해줍니다 ! <br>
-  👉 해당 문제는 제시한 사람도 해결합니다 ! <br>
-    
-  ✅ [백준 허브](https://chromewebstore.google.com/detail/%EB%B0%B1%EC%A4%80%ED%97%88%EB%B8%8Cbaekjoonhub/ccammcjdkpgjmcpijpahlehmapgmphmk?hl=ko) 활용
+    ✅ 나중에 어느정도 실력을 쌓은 이후엔, 유형을 모르는 상태로 풀어보는 연습을 하기 위해,
+      매일 한 명씩 다른 부원들에게 새로운 알고리즘 문제를 제시해줍니다 ! <br>
+    👉 해당 문제는 제시한 사람도 해결합니다 ! <br>
+      
+    ✅ [백준 허브](https://chromewebstore.google.com/detail/%EB%B0%B1%EC%A4%80%ED%97%88%EB%B8%8Cbaekjoonhub/ccammcjdkpgjmcpijpahlehmapgmphmk?hl=ko) 활용
 
 ### 
 | [<img src="https://github.com/UykM.png">](https://github.com/UykM) | [<img src="https://github.com/woogie01.png">](https://github.com/woogie01) |
