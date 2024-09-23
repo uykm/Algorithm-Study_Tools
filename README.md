@@ -37,6 +37,6 @@
 ✅ [백준 허브](https://chromewebstore.google.com/detail/%EB%B0%B1%EC%A4%80%ED%97%88%EB%B8%8Cbaekjoonhub/ccammcjdkpgjmcpijpahlehmapgmphmk?hl=ko) 활용
 
 ### 
-| [<img src="https://github.com/UykM.png">](https://github.com/UykM) | [<img src="https://github.com/woogie01.png">](https://github.com/woogie01) |
+| [<img src="https://github.com/UykM.png">](https://github.com/UykM) |
 |:---:|:---:
-신민규(멘토)|권현욱|
+신민규(스터디장)|
