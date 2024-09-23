@@ -38,5 +38,5 @@
 
 ### 
 | [<img src="https://github.com/UykM.png">](https://github.com/UykM) |
-|:---:|:---:
+|:---:|
 신민규(스터디장)|
