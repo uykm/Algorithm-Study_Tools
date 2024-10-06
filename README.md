@@ -37,7 +37,7 @@
 ✅ [백준 허브](https://chromewebstore.google.com/detail/%EB%B0%B1%EC%A4%80%ED%97%88%EB%B8%8Cbaekjoonhub/ccammcjdkpgjmcpijpahlehmapgmphmk?hl=ko) 활용하기 ! <br>
 
 ### 
-|                                                        **권현욱**                                                         |                                                        **신민규**                                                         |
+|                                                        **신민규**                                                         |                                                        **권현욱**                                                         |
 | :-----------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: | 
 [<img src="https://avatars.githubusercontent.com/u/98581610?s=400&u=1cfd120a0ddccbe77063a801de3e7e100a08679b&v=4" height=200 width=200> <br/> @mkyu](https://github.com/uykm) |
  [<img src="https://avatars.githubusercontent.com/u/113490741?s=400&u=6b60d3694e7cb946d119a2015d407819680a588a&v=4/200/200" height=200 width=200> <br/> @hyukwon](https://github.com/woogie01) |
